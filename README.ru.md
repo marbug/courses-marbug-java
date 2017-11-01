@@ -4,4 +4,6 @@
 | -------- | ---- | ---- |
 | [English](README.md) | **Русский / Russian** | [Українська / Ukrainian](README.uk.md) |
 
-TODO
+* [Установка NetBeans](netbeans/install/README.ru.md) - TODO
+* [Создание проекта](netbeans/create-project/README.ru.md) - TODO
+* TODO
