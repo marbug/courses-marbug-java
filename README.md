@@ -1,7 +1,7 @@
 # Java / MarBug / Courses
 
-| Language |   |   |
-| -------- | - | - |
-| **English** | [Russian](README.ru.md) | [Ukrainian](README.uk.md) |
+| Language | Язык | Мова |
+| -------- | ---- | ---- |
+| **English** | [Русский / Russian](README.ru.md) | [Українська / Ukrainian](README.uk.md) |
 
 TODO
