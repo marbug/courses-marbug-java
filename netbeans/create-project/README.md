@@ -22,7 +22,7 @@
 
 If it's needed (but could skip for now):
 
-* Input path to the directory/folder in the **Project Location:** field or Click on **Browse...** and select it
+* Input path to the directory/folder in the **Project Location:** field or click on **Browse...** and select it
 
 ### Mandatory ###
 

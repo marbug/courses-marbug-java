@@ -6,25 +6,25 @@
 
 ## Open New Project Dialog ##
 
-* Click on **File** in program menu
-* Click on **New Project...**
-* Click on **Maven** in **Categories:** list
-* Click on **Java Application** in **Projects:** list
-* Click on **Next >** button
+* Клікнути на **File** в меню програми
+* Клікнути на **New Project...**
+* Клікнути на **Maven** в списку **Categories:**
+* Клікнути на **Java Application** в списку **Projects:**
+* Клікнути на кнопку **Next >**
 
-## Fill Project Dialog Fields ##
+## Заповнення полів діалогу ##
 
-### Mandatory ###
+### Обов'язково ###
 
-* Input **GitManagerApp** in **Project Name:** field
+* Ввести **GitManagerApp** в полі **Project Name:**
 
-### Optional ###
+### Необов'язково ###
 
-If it's needed (but could skip for now):
+Якщо потрібно (але можна не змінювати):
 
-* Input path to the directory/folder in the **Project Location:** field or Click on **Browse...** and select it
+* Ввести шлях до директорії/папки в полі **Project Location:** або клікнути на **Browse...** та обрати її
 
-### Mandatory ###
+### Обов'язково ###
 
-* Remember the path (by default it should be **NetBeansProjects/GitManagerApp** in your home directory)
-* Click on **Finish** button
+* Запам'ятати шлях (за замовчуванням це буде **NetBeansProjects/GitManagerApp** у Вашій домашній директорії/папці)
+* Клікнути на кнопку **Finish**
