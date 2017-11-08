@@ -10,4 +10,7 @@ package com.mycompany.gitmanagerapp;
  * @author marbug
  */
 public class GitManagerApp {
+    public static void main(String[] args) {
+        System.out.println("Hello, World");
+    }
 }
