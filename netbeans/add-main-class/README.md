@@ -32,6 +32,9 @@ It should contain the following code:
 
     }
 
+[GitHub](https://github.com/marbug/courses-marbug-java/blob/v0.4_add-main-class/git-manager-app/GitManagerApp/src/main/java/com/mycompany/gitmanagerapp/GitManagerApp.java)
+[Bitbucket](https://bitbucket.org/marbug/courses-marbug-java/src/95e0c0b8c67759736756f1ec169c043b5e5664f8/git-manager-app/GitManagerApp/src/main/java/com/mycompany/gitmanagerapp/GitManagerApp.java?fileviewer=file-view-default)
+
 ## Add Hello World code ##
 
 Put the following code
@@ -53,3 +56,6 @@ i.e. the result should be:
             System.out.println("Hello, World");
         }
     }
+
+[GitHub](https://github.com/marbug/courses-marbug-java/blob/v0.5_add-hello-world-code/git-manager-app/GitManagerApp/src/main/java/com/mycompany/gitmanagerapp/GitManagerApp.java)
+[Bitbucket](https://bitbucket.org/marbug/courses-marbug-java/src/d592cefd1b637a1e54531c902037c6788d3052f6/git-manager-app/GitManagerApp/src/main/java/com/mycompany/gitmanagerapp/GitManagerApp.java?at=v0.5_add-hello-world-code&fileviewer=file-view-default)
