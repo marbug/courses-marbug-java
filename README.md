@@ -6,4 +6,5 @@
 
 * [Install NetBeans](netbeans/install/README.md)
 * [Create project](netbeans/create-project/README.md)
+* [Add main class](netbeans/add-main-class/README.md)
 * TODO

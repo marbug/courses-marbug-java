@@ -6,4 +6,5 @@
 
 * [Установка NetBeans](netbeans/install/README.ru.md)
 * [Создание проекта](netbeans/create-project/README.ru.md)
+* [Создание главного класса](netbeans/add-main-class/README.ru.md)
 * TODO
