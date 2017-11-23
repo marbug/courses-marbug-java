@@ -25,3 +25,7 @@ In the bottom right part with **Output** title you should see text like:
     ------------------------------------------------------------------------
     BUILD SUCCESS
     ------------------------------------------------------------------------
+
+| Navigation               |
+| ------------------------ |
+| [Level up](../README.md) |

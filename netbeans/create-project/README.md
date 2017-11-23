@@ -28,3 +28,7 @@ If it's needed (but could skip for now):
 
 * Remember the path (by default it should be **NetBeansProjects/GitManagerApp** in your home directory/folder)
 * Click on **Finish** button
+
+| Navigation               |
+| ------------------------ |
+| [Level up](../README.md) |

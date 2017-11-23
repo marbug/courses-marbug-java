@@ -1,4 +1,4 @@
-# Install / NetBeans / Java / MarBug / Courses
+# Add main window / NetBeans / Java / MarBug / Courses
 
 | Language | Язык | Мова |
 | -------- | ---- | ---- |
