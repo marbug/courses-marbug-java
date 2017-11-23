@@ -2,6 +2,6 @@
 
 | Language | Язык | Мова |
 | -------- | ---- | ---- |
-| [English](README.md) | [Русский / Russian](README.ru.md) | **Українська Ukrainian** |
+| [English](README.md) | [Русский / Russian](README.ru.md) | **Українська / Ukrainian** |
 
 TODO
