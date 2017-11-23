@@ -13,5 +13,5 @@
 
 ## Обычные действия ##
 
-* [Добавление главного окна](netbeans/add-main-window/README.md)
+* [Добавление главного окна](netbeans/add-main-window/README.ru.md)
 * TODO
