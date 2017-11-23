@@ -12,7 +12,7 @@
 
     import javax.swing.JFrame;
 
-Затем замените после
+Затем замените строку после
 
     public static void main(String[] args) {
 
