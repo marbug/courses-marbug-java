@@ -5,10 +5,24 @@
  */
 package com.mycompany.gitmanagerapp;
 
+import java.awt.Cursor;
+import javax.swing.JButton;
+import javax.swing.JPanel;
+
 /**
  *
  * @author marbug
  */
-public class MainPage {
+public class MainPage extends JPanel {
     
+    protected static final String pathButtonString = "Open";
+    
+    public MainPage() {
+        // pathButton
+        JButton pathButton = new JButton();
+        pathButton.setText(pathButtonString);
+        pathButton.setCursor(Cursor.getDefaultCursor());        
+        
+        this.add(pathButton);
+    }
 }
