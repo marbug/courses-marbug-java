@@ -18,6 +18,9 @@ public class GitManagerApp {
     
     public static void createMainWindow() {
         JFrame frame = new JFrame( "Git Manager" );
+        
+        MainPage mainPage = new MainPage();
+        frame.add(mainPage);
 
         frame.setDefaultCloseOperation( JFrame.EXIT_ON_CLOSE );
         frame.setVisible( true );
