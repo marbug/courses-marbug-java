@@ -1,4 +1,4 @@
-# Інсталяція / NetBeans / Java / MarBug / Courses
+# Детальний опис / Створення проекту / NetBeans / Java / MarBug / Courses
 
 | Language | Язык | Мова |
 | -------- | ---- | ---- |
