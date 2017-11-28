@@ -36,7 +36,7 @@ Each object could do something: a car and a bicycle could move, a book could be 
 
     System.out.println("Hello, World");
 
-**System** is a public class, which has public object **out**. That public object **out** has a public method/function, called **println**. And that method/function **println** shows in console the value, which is send to it via parentheses. I.e. it prints on screen **Hello, World** text.
+**System.out** is a package, which has public method/function, called **println**. And that method/function **println** shows in console the value, which is send to it via parentheses. I.e. it prints on screen **Hello, World** text.
 
 | Navigation               |
 | ------------------------ |
