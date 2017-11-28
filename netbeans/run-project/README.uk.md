@@ -28,4 +28,4 @@ In the bottom right part with **Output** title you should see text like:
 
 | Навігація                |
 | ------------------------ |
-| [Вгору](../README.ru.md) |
+| [Вгору](../README.uk.md) |

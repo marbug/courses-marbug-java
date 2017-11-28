@@ -62,8 +62,8 @@ i.e. the result should be:
 
 ## Детальний опис ##
 
-Читайте [тут](detailed-info/README.md)
+Читайте [тут](detailed-info/README.uk.md)
 
 | Навігація                |
 | ------------------------ |
-| [Вгору](../README.ru.md) |
+| [Вгору](../README.uk.md) |
