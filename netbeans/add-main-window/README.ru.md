@@ -35,6 +35,10 @@
 * [GitHub](https://github.com/marbug/courses-marbug-java/compare/v0.6_before-add-main-window...v0.7_add-main-window)
 * [Bitbucket](https://bitbucket.org/marbug/courses-marbug-java/branches/compare/v0.7_add-main-window%0Dv0.6_before-add-main-window#diff)
 
+## Детальное описание ##
+
+Читайте [тут](detailed-info/README.md)
+
 | Навигация                |
 | ------------------------ |
 | [Вверх](../README.ru.md) |
