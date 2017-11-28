@@ -10,7 +10,7 @@
 
 This line shows a package of current file. The package name must be unique for each company or developer. For example, **com.google.**, **org.bitbucket.**, etc. Usually it contains also the name of the program: it our case it's **gitmanagerapp**.
 
-## public class ##
+## class ##
 
     public class GitManagerApp {
 
