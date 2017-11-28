@@ -4,4 +4,4 @@
 | -------- | ---- | ---- |
 | [English](README.md) | [Русский / Russian](README.ru.md) | **Українська / Ukrainian** |
 
-* [NetBeans](netbeans/README.md)
+* [NetBeans](netbeans/README.uk.md)
