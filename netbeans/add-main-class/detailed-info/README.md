@@ -14,7 +14,9 @@ This line shows a package of current file. The package name must be unique for e
 
     public class GitManagerApp {
 
-Each real world object has a type: a car, a bicycle, a book, etc. In development it's called **class**. I.e. here we defined our own class called **GitManagerApp**. **public** means that it's visible to everyone. Let's talk about **public** in details [later](TODO)
+Each real world object has a type: a car, a bicycle, a book, etc. In development it's called **class**. I.e. here we defined our own class called **GitManagerApp**.
+
+**public** means that it's visible to everyone. Let's talk about **public** in details [later](TODO)
 
 ## main ##
 
