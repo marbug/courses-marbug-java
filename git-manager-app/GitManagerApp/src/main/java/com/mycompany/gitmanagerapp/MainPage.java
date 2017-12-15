@@ -6,23 +6,32 @@
 package com.mycompany.gitmanagerapp;
 
 import java.awt.Cursor;
+import java.awt.GridLayout;
+import java.awt.Insets;
 import javax.swing.JButton;
 import javax.swing.JPanel;
+import javax.swing.JTextField;
 
 /**
  *
  * @author marbug
  */
 public class MainPage extends JPanel {
-    
+
     protected static final String pathButtonString = "Open";
+    protected static final String pathInputString = "Path will be here";
     
     public MainPage() {
+        // pathInput
+        JTextField pathInput = new JTextField();
+        pathInput.setText(pathInputString);
+
         // pathButton
         JButton pathButton = new JButton();
         pathButton.setText(pathButtonString);
         pathButton.setCursor(Cursor.getDefaultCursor());        
         
+        this.add(pathInput);
         this.add(pathButton);
     }
 }
