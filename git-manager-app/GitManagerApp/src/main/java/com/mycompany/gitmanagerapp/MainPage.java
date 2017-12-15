@@ -6,6 +6,8 @@
 package com.mycompany.gitmanagerapp;
 
 import java.awt.Cursor;
+import java.awt.GridLayout;
+import java.awt.Insets;
 import javax.swing.JButton;
 import javax.swing.JPanel;
 import javax.swing.JTextField;
