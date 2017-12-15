@@ -24,7 +24,7 @@ public class MainPage extends JPanel {
     protected static final String pathLabelString = "Repo";
     
     public MainPage() {
-        setLayout(new GridLayout(0, 2));
+        setLayout(new GridLayout(0, 3));
 
         JLabel pathLabel = new JLabel(pathLabelString);
 
