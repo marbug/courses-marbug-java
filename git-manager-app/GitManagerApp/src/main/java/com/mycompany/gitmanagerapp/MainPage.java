@@ -21,7 +21,7 @@ public class MainPage extends JPanel {
     String pathInputString = "Path will be here";
 
     public MainPage() {
-        setLayout(new GridLayout(0, 1));
+        setLayout(new GridLayout(0, 2));
 
         // pathInput
         JTextField pathInput = new JTextField();
