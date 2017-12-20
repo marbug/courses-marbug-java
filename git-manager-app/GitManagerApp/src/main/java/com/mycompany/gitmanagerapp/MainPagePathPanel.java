@@ -16,6 +16,7 @@ import java.awt.Cursor;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 import javax.swing.JButton;
+import javax.swing.JFileChooser;
 import javax.swing.JLabel;
 import javax.swing.JTextField;
 
@@ -28,6 +29,8 @@ public class MainPagePathPanel extends JPanel implements ActionListener {
     protected static final String pathButtonString = "Open";
     protected static final String pathInputString = "Path will be here";
     protected static final String pathLabelString = "Path";
+
+    JTextField pathInput;
 
     public MainPagePathPanel() {
         setLayout(new BorderLayout(horizontalSpace, verticalSpace));
@@ -46,7 +49,7 @@ public class MainPagePathPanel extends JPanel implements ActionListener {
         JLabel pathLabel = new JLabel(pathLabelString);
 
         // pathInput
-        JTextField pathInput = new JTextField();
+        pathInput = new JTextField();
         pathInput.setText(pathInputString);
         pathLabel.setLabelFor(pathInput);
 
@@ -64,6 +67,20 @@ public class MainPagePathPanel extends JPanel implements ActionListener {
         // implements ActionListener
     public void actionPerformed(ActionEvent e) {
         System.out.println("Button is clicked");
+        selectFolder();
+    }
+
+    public void selectFolder() {
+        JFileChooser chooser = new JFileChooser();
+        chooser.setCurrentDirectory(new java.io.File("."));
+        chooser.setDialogTitle("Select folder");
+        chooser.setFileSelectionMode(JFileChooser.DIRECTORIES_ONLY);
+        chooser.setAcceptAllFileFilterUsed(false);
+
+        if (chooser.showOpenDialog(null) == JFileChooser.APPROVE_OPTION) {
+            String selectedDirectory = chooser.getSelectedFile().getAbsolutePath();
+            pathInput.setText(selectedDirectory);
+        }
     }
 
 }
