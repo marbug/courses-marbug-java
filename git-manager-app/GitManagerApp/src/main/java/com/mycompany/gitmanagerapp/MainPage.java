@@ -5,6 +5,7 @@
  */
 package com.mycompany.gitmanagerapp;
 
+import java.awt.BorderLayout;
 import java.awt.Cursor;
 import java.awt.GridLayout;
 import java.awt.Insets;
@@ -24,7 +25,7 @@ public class MainPage extends JPanel {
     protected static final String pathLabelString = "Repo";
     
     public MainPage() {
-        setLayout(new GridLayout(0, 3));
+        setLayout(new BorderLayout());
 
         JLabel pathLabel = new JLabel(pathLabelString);
 
@@ -38,8 +39,8 @@ public class MainPage extends JPanel {
         pathButton.setText(pathButtonString);
         pathButton.setCursor(Cursor.getDefaultCursor());        
         
-        this.add(pathLabel);
+        this.add(pathLabel, BorderLayout.WEST);
         this.add(pathInput);
-        this.add(pathButton);
+        this.add(pathButton, BorderLayout.EAST);
     }
 }
