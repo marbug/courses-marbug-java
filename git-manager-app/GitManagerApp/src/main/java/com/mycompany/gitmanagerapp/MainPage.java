@@ -32,7 +32,7 @@ public class MainPage extends JPanel {
     public MainPage() {
         setLayout(new BorderLayout());
 
-        JPanel pathPanel = new JPanel(new FlowLayout());
+        JPanel pathPanel = new JPanel(new FlowLayout(FlowLayout.LEFT));
         pathPanel.setBorder(
             BorderFactory.createCompoundBorder(
                 BorderFactory.createEmptyBorder(BORDER_MARGIN, BORDER_MARGIN, BORDER_MARGIN, BORDER_MARGIN),
