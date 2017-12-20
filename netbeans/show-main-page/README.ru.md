@@ -4,7 +4,14 @@
 | -------- | ---- | ---- |
 | [English](README.md) | **Русский / Russian** | [Українська / Ukrainian](README.uk.md) |
 
-TODO
+В файле **src/main/java/com/mycompany/gitmanagerapp/GitManagerApp.java** после
+
+    JFrame frame = new JFrame( "Git Manager" );
+
+добавляем
+
+        MainPage mainPage = new MainPage();
+        frame.add(mainPage);
 
 Смотрите изменения на:
 

@@ -4,7 +4,7 @@
 | -------- | ---- | ---- |
 | [English](README.md) | **Русский / Russian** | [Українська / Ukrainian](README.uk.md) |
 
-После
+В файле **src/main/java/com/mycompany/gitmanagerapp/MainPage.java** после
 
     public class MainPage
 
