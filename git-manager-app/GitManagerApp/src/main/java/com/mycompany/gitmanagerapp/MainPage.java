@@ -27,40 +27,11 @@ public class MainPage extends JPanel {
     static int horizontalSpace = 10;
     static int verticalSpace = 5;
 
-    protected static final String pathButtonString = "Open";
-    protected static final String pathInputString = "Path will be here";
-    protected static final String pathLabelString = "Path";
-    
     public MainPage() {
         setLayout(new BorderLayout());
 
-        JPanel pathPanel = new JPanel(new BorderLayout(horizontalSpace, verticalSpace));
-        pathPanel.setBorder(
-            BorderFactory.createCompoundBorder(
-                BorderFactory.createEmptyBorder(BORDER_MARGIN, BORDER_MARGIN, BORDER_MARGIN, BORDER_MARGIN),
-                BorderFactory.createTitledBorder("Repo")
-            )
-        );
+        JPanel pathPanel = new MainPagePathPanel();
         add(pathPanel, BorderLayout.NORTH);
-                
-        this.addPathItems(pathPanel);
     }
 
-    public void addPathItems(JPanel pathPanel) {
-        JLabel pathLabel = new JLabel(pathLabelString);
-
-        // pathInput
-        JTextField pathInput = new JTextField();
-        pathInput.setText(pathInputString);
-        pathLabel.setLabelFor(pathInput);
-
-        // pathButton
-        JButton pathButton = new JButton();
-        pathButton.setText(pathButtonString);
-        pathButton.setCursor(Cursor.getDefaultCursor());        
-        
-        pathPanel.add(pathLabel, BorderLayout.WEST);
-        pathPanel.add(pathInput);
-        pathPanel.add(pathButton, BorderLayout.EAST);
-    }
 }
