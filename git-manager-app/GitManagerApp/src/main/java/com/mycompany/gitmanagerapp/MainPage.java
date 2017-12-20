@@ -27,6 +27,10 @@ public class MainPage extends JPanel {
     public MainPage() {
         setLayout(new BorderLayout());
 
+        this.addPathItems();
+    }
+
+    public void addPathItems() {
         JLabel pathLabel = new JLabel(pathLabelString);
 
         // pathInput
