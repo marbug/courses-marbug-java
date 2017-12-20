@@ -4,7 +4,30 @@
 | -------- | ---- | ---- |
 | [English](README.md) | **Русский / Russian** | [Українська / Ukrainian](README.uk.md) |
 
-TODO
+После
+
+    public class MainPage
+
+добавьте текст
+
+    extends JPanel
+
+чтобы получилось
+
+    public class MainPage extends JPanel {
+
+и после этой строки добавьте
+
+        String pathButtonString = "Open";
+
+        public MainPage() {
+            // pathButton
+            JButton pathButton = new JButton();
+            pathButton.setText(pathButtonString);
+            pathButton.setCursor(Cursor.getDefaultCursor());
+
+            this.add(pathButton);
+        }
 
 Смотрите изменения на:
 
