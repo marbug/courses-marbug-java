@@ -26,7 +26,7 @@ public class MainPage extends JPanel {
 
     protected static final String pathButtonString = "Open";
     protected static final String pathInputString = "Path will be here";
-    protected static final String pathLabelString = "Repo";
+    protected static final String pathLabelString = "Path";
     
     public MainPage() {
         setLayout(new BorderLayout());
