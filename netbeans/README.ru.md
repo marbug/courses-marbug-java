@@ -20,6 +20,7 @@
 * [Отображение главной страницы](show-main-page/README.ru.md)
 * [Добавление поля ввода на главной странице](add-main-page-input/README.ru.md)
 * [Установка GridLayout](set-grid-layout/README.ru.md)
+* [Изменение параметров GridLayout](change-grid-layout-params/README.ru.md)
 * TODO
 
 | Навигация                |
