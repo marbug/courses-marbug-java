@@ -24,6 +24,9 @@ public class MainPage extends JPanel {
     
     protected static int BORDER_MARGIN = 10;
 
+    static int horizontalSpace = 10;
+    static int verticalSpace = 5;
+
     protected static final String pathButtonString = "Open";
     protected static final String pathInputString = "Path will be here";
     protected static final String pathLabelString = "Path";
@@ -31,7 +34,7 @@ public class MainPage extends JPanel {
     public MainPage() {
         setLayout(new BorderLayout());
 
-        JPanel pathPanel = new JPanel(new BorderLayout());
+        JPanel pathPanel = new JPanel(new BorderLayout(horizontalSpace, verticalSpace));
         pathPanel.setBorder(
             BorderFactory.createCompoundBorder(
                 BorderFactory.createEmptyBorder(BORDER_MARGIN, BORDER_MARGIN, BORDER_MARGIN, BORDER_MARGIN),
