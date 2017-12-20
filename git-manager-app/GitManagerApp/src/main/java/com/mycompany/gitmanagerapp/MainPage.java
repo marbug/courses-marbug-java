@@ -15,14 +15,14 @@ import javax.swing.JPanel;
  */
 public class MainPage extends JPanel {
     
-    protected static final String pathButtonString = "Open";
-    
+    String pathButtonString = "Open";
+
     public MainPage() {
         // pathButton
         JButton pathButton = new JButton();
         pathButton.setText(pathButtonString);
-        pathButton.setCursor(Cursor.getDefaultCursor());        
-        
+        pathButton.setCursor(Cursor.getDefaultCursor());
+
         this.add(pathButton);
     }
 }
