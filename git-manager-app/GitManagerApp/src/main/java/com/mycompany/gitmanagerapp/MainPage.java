@@ -38,7 +38,7 @@ public class MainPage extends JPanel {
                 BorderFactory.createTitledBorder("Repo")
             )
         );
-        add(pathPanel);
+        add(pathPanel, BorderLayout.NORTH);
                 
         // this.addPathItems();
     }
