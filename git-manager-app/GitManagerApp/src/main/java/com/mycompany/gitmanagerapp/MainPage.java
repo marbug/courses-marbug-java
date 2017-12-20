@@ -16,7 +16,7 @@ import javax.swing.JPanel;
 public class MainPage extends JPanel {
     
     String pathButtonString = "Open";
-    
+
     public MainPage() {
         // pathButton
         JButton pathButton = new JButton();
