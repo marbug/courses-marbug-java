@@ -40,10 +40,10 @@ public class MainPage extends JPanel {
         );
         add(pathPanel, BorderLayout.NORTH);
                 
-        // this.addPathItems();
+        this.addPathItems(pathPanel);
     }
 
-    public void addPathItems() {
+    public void addPathItems(JPanel pathPanel) {
         JLabel pathLabel = new JLabel(pathLabelString);
 
         // pathInput
@@ -56,8 +56,8 @@ public class MainPage extends JPanel {
         pathButton.setText(pathButtonString);
         pathButton.setCursor(Cursor.getDefaultCursor());        
         
-        this.add(pathLabel, BorderLayout.WEST);
-        this.add(pathInput);
-        this.add(pathButton, BorderLayout.EAST);
+        pathPanel.add(pathLabel, BorderLayout.WEST);
+        pathPanel.add(pathInput);
+        pathPanel.add(pathButton, BorderLayout.EAST);
     }
 }
