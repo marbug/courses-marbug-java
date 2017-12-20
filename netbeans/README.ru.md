@@ -15,6 +15,7 @@
 
 * [Добавление главного окна](add-main-window/README.ru.md)
 * [Добавление главной страницы](add-main-page/README.ru.md)
+* [Добавление кнопки на главной странице](add-main-page-button/README.ru.md)
 * TODO
 
 | Навигация                |
