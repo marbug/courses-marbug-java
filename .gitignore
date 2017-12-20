@@ -1,1 +1,3 @@
 /git-manager-app/GitManagerApp/target/
+*.exe.*
+*.log.*
