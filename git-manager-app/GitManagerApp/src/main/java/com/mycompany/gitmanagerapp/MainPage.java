@@ -19,10 +19,10 @@ import javax.swing.JTextField;
  */
 public class MainPage extends JPanel {
 
-    protected static final String pathButtonString = "Open";
-    protected static final String pathInputString = "Path will be here";
-    protected static final String pathLabelString = "Repo";
-    
+    String pathButtonString = "Open";
+    String pathInputString = "Path will be here";
+    String pathLabelString = "Repo";
+
     public MainPage() {
         setLayout(new GridLayout(0, 3));
 
