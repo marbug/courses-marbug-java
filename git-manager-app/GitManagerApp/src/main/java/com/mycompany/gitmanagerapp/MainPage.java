@@ -7,8 +7,10 @@ package com.mycompany.gitmanagerapp;
 
 import java.awt.BorderLayout;
 import java.awt.Cursor;
+import java.awt.GridBagLayout;
 import java.awt.GridLayout;
 import java.awt.Insets;
+import javax.swing.BorderFactory;
 import javax.swing.JButton;
 import javax.swing.JLabel;
 import javax.swing.JPanel;
@@ -19,6 +21,8 @@ import javax.swing.JTextField;
  * @author marbug
  */
 public class MainPage extends JPanel {
+    
+    protected static int BORDER_MARGIN = 10;
 
     protected static final String pathButtonString = "Open";
     protected static final String pathInputString = "Path will be here";
@@ -27,7 +31,16 @@ public class MainPage extends JPanel {
     public MainPage() {
         setLayout(new BorderLayout());
 
-        this.addPathItems();
+        JPanel pathPanel = new JPanel(new BorderLayout());
+        pathPanel.setBorder(
+            BorderFactory.createCompoundBorder(
+                BorderFactory.createEmptyBorder(BORDER_MARGIN, BORDER_MARGIN, BORDER_MARGIN, BORDER_MARGIN),
+                BorderFactory.createTitledBorder("Repo")
+            )
+        );
+        add(pathPanel);
+                
+        // this.addPathItems();
     }
 
     public void addPathItems() {
