@@ -17,6 +17,7 @@
 * [Добавление главной страницы](add-main-page/README.ru.md)
 * [Добавление кнопки на главной странице](add-main-page-button/README.ru.md)
 * [Отображение главной страницы](show-main-page/README.ru.md)
+* [Добавление поля ввода на главной странице](add-main-page-input/README.ru.md)
 * TODO
 
 | Навигация                |
