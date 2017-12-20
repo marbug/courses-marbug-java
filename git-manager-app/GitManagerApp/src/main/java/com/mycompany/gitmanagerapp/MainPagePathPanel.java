@@ -13,6 +13,8 @@ import static com.mycompany.gitmanagerapp.MainPage.BORDER_MARGIN;
 import static com.mycompany.gitmanagerapp.MainPage.horizontalSpace;
 import static com.mycompany.gitmanagerapp.MainPage.verticalSpace;
 import java.awt.Cursor;
+import java.awt.event.ActionEvent;
+import java.awt.event.ActionListener;
 import javax.swing.JButton;
 import javax.swing.JLabel;
 import javax.swing.JTextField;
@@ -21,7 +23,7 @@ import javax.swing.JTextField;
  *
  * @author marbug
  */
-public class MainPagePathPanel extends JPanel {
+public class MainPagePathPanel extends JPanel implements ActionListener {
 
     protected static final String pathButtonString = "Open";
     protected static final String pathInputString = "Path will be here";
@@ -52,10 +54,16 @@ public class MainPagePathPanel extends JPanel {
         JButton pathButton = new JButton();
         pathButton.setText(pathButtonString);
         pathButton.setCursor(Cursor.getDefaultCursor());
+        pathButton.addActionListener(this);
 
         add(pathLabel, BorderLayout.WEST);
         add(pathInput);
         add(pathButton, BorderLayout.EAST);
+    }
+
+        // implements ActionListener
+    public void actionPerformed(ActionEvent e) {
+        System.out.println("Button is clicked");
     }
 
 }
