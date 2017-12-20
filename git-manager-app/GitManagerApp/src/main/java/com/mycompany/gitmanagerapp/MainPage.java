@@ -7,7 +7,6 @@ package com.mycompany.gitmanagerapp;
 
 import java.awt.BorderLayout;
 import java.awt.Cursor;
-import java.awt.FlowLayout;
 import java.awt.GridBagLayout;
 import java.awt.GridLayout;
 import java.awt.Insets;
@@ -32,7 +31,7 @@ public class MainPage extends JPanel {
     public MainPage() {
         setLayout(new BorderLayout());
 
-        JPanel pathPanel = new JPanel(new FlowLayout(FlowLayout.LEFT));
+        JPanel pathPanel = new JPanel(new BorderLayout());
         pathPanel.setBorder(
             BorderFactory.createCompoundBorder(
                 BorderFactory.createEmptyBorder(BORDER_MARGIN, BORDER_MARGIN, BORDER_MARGIN, BORDER_MARGIN),
