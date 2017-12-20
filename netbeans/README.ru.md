@@ -7,6 +7,7 @@
 ## Начальные действия ##
 
 * [Установка NetBeans](install/README.ru.md)
+* [Изменение языка NetBeans](change-language/README.ru.md)
 * [Создание проекта](create-project/README.ru.md)
 * [Создание главного класса](add-main-class/README.ru.md)
 * [Запуск проекта](run-project/README.ru.md)
