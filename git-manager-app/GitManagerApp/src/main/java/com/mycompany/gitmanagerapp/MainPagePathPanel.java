@@ -5,10 +5,12 @@
  */
 package com.mycompany.gitmanagerapp;
 
+import javax.swing.JPanel;
+
 /**
  *
  * @author marbug
  */
-public class MainPagePathPanel {
+public class MainPagePathPanel extends JPanel {
     
 }
