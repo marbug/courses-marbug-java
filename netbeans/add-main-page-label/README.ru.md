@@ -11,7 +11,7 @@ TODO
 Смотрите изменения на:
 
 * [GitHub](https://github.com/marbug/courses-marbug-java/compare/v4.3_change-grid-layout-params...v4.4_add-main-page-label)
-* [Bitbucket](https://bitbucket.org/marbug/courses-marbug-java/branches/compare/v0.10_add-main-page-code%0Dv0.9_add-main-page#diff)
+* [Bitbucket](https://bitbucket.org/marbug/courses-marbug-java/branches/compare/v4.4_add-main-page-label%0Dv4.3_change-grid-layout-params#diff)
 
 | Навигация                |
 | ------------------------ |

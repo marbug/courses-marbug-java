@@ -33,7 +33,7 @@
 Смотрите изменения на:
 
 * [GitHub](https://github.com/marbug/courses-marbug-java/compare/v4.0_before-add-input...v4.1_add-path-input)
-* [Bitbucket](https://bitbucket.org/marbug/courses-marbug-java/branches/compare/v0.10_add-main-page-code%0Dv0.9_add-main-page#diff)
+* [Bitbucket](https://bitbucket.org/marbug/courses-marbug-java/branches/compare/v4.1_add-path-input%0Dv4.0_before-add-input#diff)
 
 | Навигация                |
 | ------------------------ |

@@ -15,7 +15,7 @@
 Смотрите изменения на:
 
 * [GitHub](https://github.com/marbug/courses-marbug-java/compare/v4.1_add-path-input...v4.2_set-grid-layout)
-* [Bitbucket](https://bitbucket.org/marbug/courses-marbug-java/branches/compare/v0.10_add-main-page-code%0Dv0.9_add-main-page#diff)
+* [Bitbucket](https://bitbucket.org/marbug/courses-marbug-java/branches/compare/v4.2_set-grid-layout%0Dv4.1_add-path-input#diff)
 
 | Навигация                |
 | ------------------------ |
