@@ -1,4 +1,4 @@
-# Создание проекта / NetBeans / Java / MarBug / Courses
+# Запуск проекта / NetBeans / Java / MarBug / Courses
 
 | Language | Язык | Мова |
 | -------- | ---- | ---- |
@@ -8,6 +8,8 @@
 
 * Кликнуть на **Выпролнить** в верхнем меню
 * Кликнуть на **Запустить проект (GitManagerApp)**
+
+![Меню](https://github.com/marbug/courses-marbug-java/blob/master/netbeans/run-project/menu.ru.png)
 
 ## Разовые действия ##
 

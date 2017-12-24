@@ -1,4 +1,4 @@
-# Create Project / NetBeans / Java / MarBug / Courses
+# Run Project / NetBeans / Java / MarBug / Courses
 
 | Language | Язык | Мова |
 | -------- | ---- | ---- |
