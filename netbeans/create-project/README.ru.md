@@ -8,9 +8,14 @@
 
 * Кликнуть на **Файл** в меню программы
 * Кликнуть на **Создать проект...**
+
+![menu](https://github.com/marbug/courses-marbug-java/blob/master/netbeans/create-project/menu.ru.png)
+
 * Кликнуть на **Maven** в списке **Категории:**
 * Кликнуть на **Приложение Java** в списке **Проекты:**
 * Кликнуть на кнопку **Далее >**
+
+![type](https://github.com/marbug/courses-marbug-java/blob/master/netbeans/create-project/type.ru.png)
 
 ## Заполнение полей диалога ##
 
