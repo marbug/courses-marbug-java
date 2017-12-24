@@ -24,6 +24,8 @@
 * Ввести **GitManagerApp** в поле **Имя класса**
 * Кликнуть на кнопку **Готово**
 
+![Диалог](https://github.com/marbug/courses-marbug-java/blob/master/netbeans/add-main-class/dialog.ru.png)
+
 ## Проверить GitManagerApp файл ##
 
 Он должен содержать следующий код:
