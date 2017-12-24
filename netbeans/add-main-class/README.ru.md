@@ -4,7 +4,7 @@
 | -------- | ---- | ---- |
 | [English](README.md) | **Русский / Russian** | [Українська / Ukrainian](README.uk.md) |
 
-## Открыть нужную директорию/папку ##
+## Открыть окно создания класса ##
 
 * Кликнуть на **Файлы** слева вверху
 * Кликнуть на **GitManagerApp**
@@ -13,14 +13,14 @@
 * Кликнуть на **java**
 * Кликнуть на **com**
 * Кликнуть на **mycompany**
-
-![Закладка "Файлы"](https://github.com/marbug/courses-marbug-java/blob/master/netbeans/add-main-class/files-tab.ru.png)
-
-## Создать GitManagerApp файл ##
-
 * Кликнуть правой кнопкой мышки на **gitmanagerapp**
 * Кликнуть на **Новый**
 * Кликнуть на **Класс Java...**
+
+![Закладка "Файлы"](https://github.com/marbug/courses-marbug-java/blob/master/netbeans/files/add-class.ru.png)
+
+## Создать класс GitManagerApp ##
+
 * Ввести **GitManagerApp** в поле **Имя класса**
 * Кликнуть на кнопку **Готово**
 
