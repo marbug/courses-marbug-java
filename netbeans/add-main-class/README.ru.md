@@ -14,7 +14,7 @@
 * Кликнуть на **com**
 * Кликнуть на **mycompany**
 
-![Закладка "Файлы"](https://github.com/marbug/courses-marbug-java/blob/master/netbeans/create-main-class/files-tab.ru.png)
+![Закладка "Файлы"](https://github.com/marbug/courses-marbug-java/blob/master/netbeans/add-main-class/files-tab.ru.png)
 
 ## Создать GitManagerApp файл ##
 
