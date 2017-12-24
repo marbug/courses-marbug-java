@@ -24,6 +24,8 @@
 * Ввести **MainPage** в поле **Имя класса**
 * Кликнуть на кнопку **Готово**
 
+![Диалог](https://github.com/marbug/courses-marbug-java/blob/master/netbeans/add-main-page/dialog.ru.png)
+
 ## Проверить MainPage файл ##
 
 Он должен содержать следующий код:
