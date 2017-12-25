@@ -30,7 +30,6 @@ public class MainPage extends JPanel {
         // pathInput
         JTextField pathInput = new JTextField();
         pathInput.setText(pathInputString);
-        pathLabel.setLabelFor(pathInput);
 
         // pathButton
         JButton pathButton = new JButton();
