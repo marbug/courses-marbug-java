@@ -24,14 +24,6 @@
 
     JLabel pathLabel = new JLabel(pathLabelString);
 
-После
-
-    pathInput.setText(pathInputString);
-
-вставить
-
-    pathLabel.setLabelFor(pathInput);
-
 Перед
 
     this.add(pathInput);
