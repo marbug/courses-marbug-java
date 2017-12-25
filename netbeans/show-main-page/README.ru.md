@@ -25,6 +25,10 @@
 
 ![Меню](https://github.com/marbug/courses-marbug-java/blob/master/netbeans/run-project/menu.ru.png)
 
+## Результат ##
+
+![Меню](https://github.com/marbug/courses-marbug-java/blob/master/netbeans/show-main-page/result.ru.png)
+
 | Навигация                |
 | ------------------------ |
 | [Вверх](../README.ru.md) |
