@@ -4,6 +4,8 @@
 | -------- | ---- | ---- |
 | [English](README.md) | **Русский / Russian** | [Українська / Ukrainian](README.uk.md) |
 
+## Добавить переменную ##
+
 В файле **src/main/java/com/mycompany/gitmanagerapp/MainPage.java** после
 
     String pathInputString = "Path will be here";
@@ -11,6 +13,8 @@
 вставить
 
     String pathLabelString = "Repo";
+
+## Усовершенствовать разметку ##
 
 В строке
 
@@ -20,9 +24,13 @@
 
     setLayout(new GridLayout(0, 3));
 
+## Создать метку ##
+
 И потом добавляем:
 
     JLabel pathLabel = new JLabel(pathLabelString);
+
+## Добавить метку ##
 
 Перед
 
@@ -31,6 +39,8 @@
 вставить
 
     this.add(pathLabel);
+
+## Код ##
 
 Смотрите изменения на:
 
