@@ -35,6 +35,17 @@
 * [GitHub](https://github.com/marbug/courses-marbug-java/compare/v4.0_before-add-input...v4.1_add-path-input)
 * [Bitbucket](https://bitbucket.org/marbug/courses-marbug-java/branches/compare/v4.1_add-path-input%0Dv4.0_before-add-input#diff)
 
+## Запуск проекта ##
+
+* Кликнуть на **Выпролнить** в верхнем меню
+* Кликнуть на **Запустить проект (GitManagerApp)**
+
+![Меню](https://github.com/marbug/courses-marbug-java/blob/master/netbeans/run-project/menu.ru.png)
+
+## Результат ##
+
+![Меню](https://github.com/marbug/courses-marbug-java/blob/master/netbeans/add-main-page-input/result.ru.png)
+
 | Навигация                |
 | ------------------------ |
 | [Вверх](../README.ru.md) |
