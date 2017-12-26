@@ -1,4 +1,4 @@
-# Установка GridLayout / NetBeans / Java / MarBug / Courses
+# Размещение елементов в панели / NetBeans / Java / MarBug / Courses
 
 | Language | Язык | Мова |
 | -------- | ---- | ---- |
