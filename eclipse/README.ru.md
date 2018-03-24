@@ -1,8 +1,11 @@
-# Java / MarBug / Courses
+# Eclipse / Java / MarBug / Courses
 
 | Language | Язык | Мова |
 | -------- | ---- | ---- |
 | [English](README.md) | **Русский / Russian** | [Українська / Ukrainian](README.uk.md) |
 
-* [NetBeans](netbeans/README.ru.md)
-* [Eclipse](eclipse/README.ru.md)
+* TODO
+
+| Навигация                |
+| ------------------------ |
+| [Вверх](../README.ru.md) |
