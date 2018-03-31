@@ -4,15 +4,18 @@
 | -------- | ---- | ---- |
 | [English](README.md) | **Русский / Russian** | [Українська / Ukrainian](README.uk.md) |
 
-## Начальные действия ##
+## Подготовка среды разработки (IDE) ##
 
 * [Установка NetBeans](install/README.ru.md)
 * [Изменение языка NetBeans](change-language/README.ru.md)
+
+## Подготовка минимального кода проекта ##
+
 * [Создание проекта](create-project/README.ru.md)
 * [Создание главного класса](add-main-class/README.ru.md)
 * [Запуск проекта](run-project/README.ru.md)
 
-## Обычные действия ##
+## Подготовка минимального кода UI ##
 
 * [Добавление главного окна](add-main-window/README.ru.md)
 * [Добавление главной страницы](add-main-page/README.ru.md)
