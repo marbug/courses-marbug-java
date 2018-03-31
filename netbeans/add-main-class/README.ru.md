@@ -4,7 +4,7 @@
 | -------- | ---- | ---- |
 | [English](README.md) | **Русский / Russian** | [Українська / Ukrainian](README.uk.md) |
 
-* [Открыть окно создания класса](open-dialog/README.md)
+* [Открыть окно создания класса](open-dialog/README.ru.md)
 
 ## Создать класс GitManagerApp ##
 
