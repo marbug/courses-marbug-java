@@ -31,6 +31,10 @@
 * [GitHub](https://github.com/marbug/courses-marbug-java/blob/v0.5_add-hello-world-code/git-manager-app/GitManagerApp/src/main/java/com/mycompany/gitmanagerapp/GitManagerApp.java)
 * [Bitbucket](https://bitbucket.org/marbug/courses-marbug-java/src/d592cefd1b637a1e54531c902037c6788d3052f6/git-manager-app/GitManagerApp/src/main/java/com/mycompany/gitmanagerapp/GitManagerApp.java?at=v0.5_add-hello-world-code&fileviewer=file-view-default)
 
+## Детальное описание ##
+
+TODO
+
 | Навигация                |
 | ------------------------ |
 | [Вверх](../README.ru.md) |
