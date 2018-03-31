@@ -13,6 +13,7 @@
 
 * [Создание проекта](create-project/README.ru.md)
 * [Создание главного класса](add-main-class/README.ru.md)
+* TODO: enhance info below
 * [Запуск проекта](run-project/README.ru.md)
 
 ## Подготовка минимального кода UI ##
